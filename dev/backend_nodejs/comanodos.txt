@@ -1,0 +1,4 @@
+//--------------------------------- Inicializacion
+1. en la raiz de la carpeta  en cmd=  npm init
+2.   = npm install express
+3.   = npm install nodemon
