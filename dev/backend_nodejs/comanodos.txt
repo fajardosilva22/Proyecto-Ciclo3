@@ -6,4 +6,4 @@
 5. dentro de "src" se crea 1 index.js y dos carpeta: controllers y routers.
 6. para que la carpeta "node_modules no cargue en el github,se debe crear el archivo ".gitignore" dentro 
 del la carpeta raiz "backend_nodejs.
-7. lo que debe contener el .gitignore es una linea con node_modules
+7. lo que debe contener el .gitignore es una linea con node_modulesss
