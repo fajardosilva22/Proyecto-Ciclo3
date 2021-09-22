@@ -2,3 +2,8 @@
 1. en la raiz de la carpeta  en cmd=  npm init
 2.   = npm install express
 3.   = npm install nodemon
+4. luego se crea dentro de la carperta raiz , la carperta "scr"
+5. dentro de "src" se crea 1 index.js y dos carpeta: controllers y routers.
+6. para que la carpeta "node_modules no cargue en el github,se debe crear el archivo ".gitignore" dentro 
+del la carpeta raiz "backend_nodejs.
+7. lo que debe contener el .gitignore es una linea con node_modules
